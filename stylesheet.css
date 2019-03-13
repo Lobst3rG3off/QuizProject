@@ -12,17 +12,17 @@ h1 {
 
 #quiz {
     text-indent: 10px;
-    display:none;
+    display: none;
 }
 
 .button {
-    border:4px solid;
-    border-radius:5px;
+    border: 4px solid;
+    border-radius: 5px;
     width: 40px;
-    padding-left:5px;
+    padding-left: 5px;
     padding-right: 5px;
     position: relative;
-    float:right;
+    float: right;
     background-color: #DCDCDC;
     color: black;
     margin: 0 2px 0 2px;
@@ -35,7 +35,7 @@ h1 {
 
 button {
     position: relative;
-    float:right;
+    float: right;
 }
 
 .button a {
@@ -44,12 +44,12 @@ button {
 }
 
 #container {
-    width:50%;
-    margin:auto;
+    width: 50%;
+    margin: auto;
     padding: 0 25px 40px 10px;
     background-color: #1E90FF;
-    border:4px solid #B0E0E6;
-    border-radius:5px;
+    border: 4px solid #B0E0E6;
+    border-radius: 5px;
     color: #FFFFFF;
     font-weight: bold;
     box-shadow: 5px 5px 5px #888;
@@ -62,10 +62,10 @@ ul {
 }
 
 #prev {
-    display:none;
+    display: none;
 }
 
 #start {
-    display:none;
+    display: none;
     width: 90px;
 }
